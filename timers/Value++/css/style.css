@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: rgba(47, 47, 51, 0.8);
+  font-family: 'Montserrat', sans-serif; }
+
+html,
+body {
+  width: 100%;
+  height: 100vh;
+  background: #f9f9f9;
+  display: flex; }
+
+.wrapper {
+  margin: auto;
+  padding: 20px;
+  border-radius: 4px;
+  background: white;
+  text-align: center;
+  max-width: 500px;
+  -webkit-box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.1); }
+
+.caption {
+  margin: 5px auto;
+  padding-bottom: 5px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
+
+.tag {
+  color: #fbb23f; }
+
+.text:last-child {
+  margin: 5px auto; }
+
+/*# sourceMappingURL=style.css.map */
